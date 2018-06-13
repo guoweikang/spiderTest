@@ -1,2 +1,0 @@
-# zhihuSpider
-spider for zhihu 
